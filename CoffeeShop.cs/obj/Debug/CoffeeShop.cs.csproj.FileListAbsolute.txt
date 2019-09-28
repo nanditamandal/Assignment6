@@ -1,0 +1,12 @@
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\bin\Debug\CoffeeShop.cs.exe.config
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\bin\Debug\CoffeeShop.cs.exe
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\bin\Debug\CoffeeShop.cs.pdb
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.csprojAssemblyReference.cache
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.Properties.Resources.resources
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.csproj.GenerateResource.cache
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.csproj.CoreCompileInputs.cache
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.exe
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.pdb
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.Customer.resources
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.Items.resources
+E:\c#\coffeeshopwithdatabase\CoffeeShop.cs\CoffeeShop.cs\obj\Debug\CoffeeShop.cs.Order.resources
